@@ -95,6 +95,7 @@ nav{
     margin-right: 30px;
     @media (max-width: 768px){
         width: 300px;
+        margin-right: 0;
     }
 }
 
