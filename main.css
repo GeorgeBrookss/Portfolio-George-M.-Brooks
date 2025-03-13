@@ -14,7 +14,7 @@
 }
 
 body{
-    background-image: linear-gradient( rgb(0, 60, 255) , rgb(176, 250, 255), rgb(202, 238, 237), rgb(3, 20, 96) );
+    background-image: linear-gradient( rgb(5, 37, 144) , rgb(176, 250, 255), rgb(202, 238, 237), rgb(3, 20, 96) );
     margin: 0 auto;
 }
 
@@ -279,3 +279,5 @@ nav{
         width: 300px;
     }
 }
+
+
